@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ebf7d8b.css",
-    "main.js": "/static/js/main.2fab63e0.js",
-    "index.html": "/index.html",
-    "main.2ebf7d8b.css.map": "/static/css/main.2ebf7d8b.css.map",
-    "main.2fab63e0.js.map": "/static/js/main.2fab63e0.js.map"
+    "main.css": "/crypto-react-firebase/static/css/main.2ebf7d8b.css",
+    "main.js": "/crypto-react-firebase/static/js/main.2fab63e0.js",
+    "index.html": "/crypto-react-firebase/index.html",
+    "main.2ebf7d8b.css.map": "/crypto-react-firebase/static/css/main.2ebf7d8b.css.map",
+    "main.2fab63e0.js.map": "/crypto-react-firebase/static/js/main.2fab63e0.js.map"
   },
   "entrypoints": [
     "static/css/main.2ebf7d8b.css",
